@@ -1,0 +1,150 @@
+[
+    {
+        "State": "Andaman and Nicobar",
+        "Confirmed Cases": "44"
+    },
+    {
+        "State": "Andhra Pradesh",
+        "Confirmed Cases": "6841"
+    },
+    {
+        "State": "Arunachal Pradesh",
+        "Confirmed Cases": "95"
+    },
+    {
+        "State": "Assam",
+        "Confirmed Cases": "4319"
+    },
+    {
+        "State": "Bihar",
+        "Confirmed Cases": "6778"
+    },
+    {
+        "State": "Chandigarh",
+        "Confirmed Cases": "358"
+    },
+    {
+        "State": "Chhattisgarh",
+        "Confirmed Cases": "1781"
+    },
+    {
+        "State": "Dadra and Nagar Haveli",
+        "Confirmed Cases": "45"
+    },
+    {
+        "State": "Daman and Diu",
+        "Confirmed Cases": "0"
+    },
+    {
+        "State": "Delhi",
+        "Confirmed Cases": "44688"
+    },
+    {
+        "State": "Goa",
+        "Confirmed Cases": "629"
+    },
+    {
+        "State": "Gujarat",
+        "Confirmed Cases": "24577"
+    },
+    {
+        "State": "Haryana",
+        "Confirmed Cases": "8272"
+    },
+    {
+        "State": "Himachal Pradesh",
+        "Confirmed Cases": "560"
+    },
+    {
+        "State": "Jammu and Kashmir",
+        "Confirmed Cases": "5298"
+    },
+    {
+        "State": "Jharkhand",
+        "Confirmed Cases": "1839"
+    },
+    {
+        "State": "Karnataka",
+        "Confirmed Cases": "7530"
+    },
+    {
+        "State": "Kerala",
+        "Confirmed Cases": "2622"
+    },
+    {
+        "State": "Ladakh",
+        "Confirmed Cases": "649"
+    },
+    {
+        "State": "Lakshadweep",
+        "Confirmed Cases": "0"
+    },
+    {
+        "State": "Maharashtra",
+        "Confirmed Cases": "113445"
+    },
+    {
+        "State": "Manipur",
+        "Confirmed Cases": "500"
+    },
+    {
+        "State": "Meghalaya",
+        "Confirmed Cases": "44"
+    },
+    {
+        "State": "Mizoram",
+        "Confirmed Cases": "121"
+    },
+    {
+        "State": "Madhya Pradesh",
+        "Confirmed Cases": "11083"
+    },
+    {
+        "State": "Nagaland",
+        "Confirmed Cases": "179"
+    },
+    {
+        "State": "Odisha",
+        "Confirmed Cases": "4163"
+    },
+    {
+        "State": "Puducherry",
+        "Confirmed Cases": "216"
+    },
+    {
+        "State": "Punjab",
+        "Confirmed Cases": "3371"
+    },
+    {
+        "State": "Rajasthan",
+        "Confirmed Cases": "13216"
+    },
+    {
+        "State": "Sikkim",
+        "Confirmed Cases": "70"
+    },
+    {
+        "State": "Tamil Nadu",
+        "Confirmed Cases": "48019"
+    },
+    {
+        "State": "Telengana",
+        "Confirmed Cases": "5406"
+    },
+    {
+        "State": "Tripura",
+        "Confirmed Cases": "1092"
+    },
+    {
+        "State": "Uttar Pradesh",
+        "Confirmed Cases": "14091"
+    },
+    {
+        "State": "Uttarakhand",
+        "Confirmed Cases": "1942"
+    },
+    {
+        "State": "West Bengal",
+        "Confirmed Cases": "11909"
+    }
+]
